@@ -72,6 +72,3 @@ If you'd like to contribute to this project, feel free to submit pull requests, 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
